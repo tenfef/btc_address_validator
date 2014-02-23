@@ -5,10 +5,9 @@
     "authors": [
         {
             "name": "Jordan Clist",
-            "email": "jordanclist@gmail.com"
+            "email": "jordan@jaycodesign.co.nz"
         }
     ],
-    "minimum-stability": "dev",
      "require": {
         "php": ">=5.3.0"
     }
