@@ -1,7 +1,12 @@
 <?php
 
-class btc_address_validator {
+class Btc_address_validator {
     
+    /**
+     * [validate description]
+     * @param  String $address BTC Address string
+     * @return Boolean validation result
+     */
     public function validate($address)
     {        
         $addressversion = "00";
