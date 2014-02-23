@@ -4,7 +4,7 @@ BTC Address Validator
 A simple way to validate a bitcoin address in PHP easily.
 
 
-```
+```php
 $validator = new Btc_address_validator()
 $result = $validator->validate("1Af3EHHrbYRwaj4dcbKKcBxYxc6Z8j7xMZ");
 ```
