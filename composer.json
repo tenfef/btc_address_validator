@@ -1,0 +1,14 @@
+{
+    "name": "tenfef/btc_address_validator",
+    "description": "Validate a BTC Address in PHP",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Jordan Clist",
+            "email": "jordanclist@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
