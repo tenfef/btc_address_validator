@@ -1,4 +1,4 @@
-Bitcoin Address Validator
+PHP Bitcoin Address Validator
 =====================
 
 A simple way to validate a bitcoin address in PHP easily.
