@@ -10,5 +10,6 @@
     ],
      "require": {
         "php": ">=5.3.0"
-    }
+    },
+    "keywords": ["bitcoin", "validate", "validator", "btc", "address", "public", "key"]
 }
