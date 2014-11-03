@@ -1,6 +1,12 @@
 PHP Bitcoin Address Validator
 =====================
 
+**This package is deprecated. Please use: https://github.com/Jayco-Design/BTCHelper**
+
+
+
+
+
 A simple way to validate a bitcoin address in PHP easily.
 
 
