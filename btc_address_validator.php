@@ -9,18 +9,11 @@ class Btc_address_validator {
      */
     public function validate($address)
     {        
-        $addressversion = "00";
         $addr = $this->decode_base58($address);
         if (strlen($addr) != 50)
         {
           return false;
-        }
-
-        $version = substr($addr, 0, 2);
-        if (hexdec($version) > hexdec($addressversion))
-        {
-          return false;
-        }
+        }        
 
         $check = substr($addr, 0, strlen($addr) - 8);
         $check = pack("H*", $check);
